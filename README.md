@@ -7,3 +7,5 @@ Kullanmayacağımız satırlar da dolduruldu.
 Aykırı değerleri filtreledik.Son adımda 142356 satır verimiz kaldı.
 
 Daha sonra bu veriler kullanılarak birtakım grafikler elde ettim ve birbirleriyle ilişkisini inceledim.
+
+Siz de grafikler yardımıyla ilgi çekici istatistikleri kolayca anlayabilirsiniz
